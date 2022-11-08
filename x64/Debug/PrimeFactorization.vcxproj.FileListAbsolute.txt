@@ -1,0 +1,1 @@
+C:\VisualStudio2022Codes\PrimeFactorization\x64\Debug\PrimeFactorization.exe
